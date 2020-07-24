@@ -1,0 +1,10 @@
+.idea
+vendor
+node_modules
+composer.phar
+composer.lock
+tests/testrunner.php
+tests/index.php
+lib/localize.inc.php
+tests/tests/localize.inc.php
+*localize.inc.php

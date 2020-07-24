@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {"Clue\\": "lib/Clue"}
+  },
+  "require": {
+    "phpunit/phpunit": "^6",
+    "ext-xmlreader": "*",
+    "ext-json": "*",
+    "ext-sockets": "*",
+    "ext-simplexml": "*"
+  }
+}
